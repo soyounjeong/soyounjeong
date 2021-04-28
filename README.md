@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm So Youn Jeong </h1>
 
-<h2 align="center"> I'm preparing a backend developer from Southo Korea
+ I'm preparing a backend developer from Southo Korea
 
 
 - 🔭 I’m currently working on **Customer Referral System based on database**
