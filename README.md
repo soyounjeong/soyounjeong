@@ -1,6 +1,6 @@
 #<h1 align="center">Hi 👋, 
   I'm yoonjeong so</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Backend developer from South Korea</h3>
 
 - 🔭 I’m currently working on **Customer Referral System based on database**
 
