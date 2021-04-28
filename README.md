@@ -16,6 +16,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/soyounjeong6276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/soyounjeong6276" height="30" width="40" /></a>
+ 
 <a href="https://www.leetcode.com/https://leetcode.com/soyounjeong6276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soyounjeong6276/" height="30" width="40" /></a>
 </p>
 
