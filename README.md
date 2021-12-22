@@ -28,8 +28,8 @@
 
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyounjeong&layout=compact&theme=tokyonight)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyounjeong&layout=compact&theme=tokyonight)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
