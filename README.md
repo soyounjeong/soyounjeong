@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm So Youn Jeong </h1>
 
+
  I'm preparing a backend developer from Southo Korea
 
 
@@ -22,5 +23,7 @@
 
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyounjeong&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj/)
+
