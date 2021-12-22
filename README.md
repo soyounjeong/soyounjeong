@@ -29,7 +29,6 @@
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyounjeong&layout=compact&theme=tokyonight)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj)
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=wd1336syj)](https://solved.ac/wd1336syj)
 
 
