@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm So Youn Jeong </h1>
 
 
+<div align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyounjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%96%B4%EC%84%9C%EC%98%A4%EC%8B%9C%EA%B0%9C&edge_flat=false)](https://hits.seeyoufarm.com) 
+</div>
+
  I'm preparing a backend developer from South Korea
 
 
