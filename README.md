@@ -1,4 +1,13 @@
 <h3 align="center"> ⚒️ STACK ⚒️ </h3>
+
+<p align="center">
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyounjeong&count_bg=%23A44ED3&title_bg=%23837DE1&icon=&icon_color=%23E7E7E7&title=%F0%9F%99%8C%F0%9F%8F%BB%EC%96%B4%EC%84%9C%EC%98%A4%EC%8B%9C%EA%B0%9C%F0%9F%99%8C%F0%9F%8F%BB&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+</p>
+
+
+
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
