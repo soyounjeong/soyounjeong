@@ -1,27 +1,3 @@
-<h1 align="center">Hi 👋, I'm So Youn Jeong </h1>
-
-<div align="center">
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyounjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%BE%EC%96%B4%EC%84%9C%EC%98%A4%EC%8B%9C%EA%B0%9C%F0%9F%90%BE&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
- I'm preparing a backend developer from South Korea
-
-
-- 🔭 I’m currently working on **Customer Referral System based on database**
-
-- 🌱 I’m currently learning **Spring & Node.js**
-
-- 👨‍💻 All of my projects are available at [https://velog.io/@soyounjeong](https://velog.io/@soyounjeong)
-
-- 💬 Ask me about **please leave me a message!**
-
-- 📫 How to reach me **soyounjeong6276@gmail.com**
-
-
-
-
 <h2 align="center"> 💻 STACK 💻 </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -38,14 +14,13 @@
 </p>
 
 
-
 <div align="center">
 
  #### Github Stats
  
  </div>
  
- <div align="left">
+ <div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyounjeong&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyounjeong&layout=compact&theme=tokyonight)
   
